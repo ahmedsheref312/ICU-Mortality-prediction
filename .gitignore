@@ -1,0 +1,21 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+
+# Model files (large)
+*.pkl
+
+# Data files
+*.csv
+*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
