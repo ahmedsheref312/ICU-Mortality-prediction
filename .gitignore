@@ -5,6 +5,7 @@ _pycache_/
 
 # Model files (large)
 *.pkl
+!xgb_icu_model.pkl
 
 # Data files
 *.csv
