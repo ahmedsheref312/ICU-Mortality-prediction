@@ -3,9 +3,6 @@ _pycache_/
 *.pyc
 *.pyo
 
-# Model files (large)
-*.pkl
-!xgb_icu_model.pkl
 
 # Data files
 *.csv
